@@ -14,5 +14,13 @@
     <string name="back">Kembali</string>
     <string name="nama">Nama_Lengkap</string>
     <string name="app_name">LocalRest</string>
-
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="nama1">Nama1</string>
+    <string name="alamat1">Alamat1</string>
+    <string name="telpon1">Telpon1</string>
+    <string name="attention">Attention</string>
+    <string name="tanya">Tanya</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
 </resources>
