@@ -2,7 +2,13 @@
 <img width="332" height="637" alt="Screenshot 2025-12-18 214220" src="https://github.com/user-attachments/assets/22af6060-d30c-4e04-b4fa-da77436a0f1e" />
 <img width="1914" height="721" alt="image" src="https://github.com/user-attachments/assets/2aa9a0d2-1aef-4f77-8477-0f4a5cceecc3" />
 
+
+
 PRAKTIKUM 13
+
+
+
+
 <img width="444" height="570" alt="Screenshot 2025-12-25 145008" src="https://github.com/user-attachments/assets/8ba60d82-e4b1-4cee-a0fa-bbe3331c8b67" />
 <img width="505" height="735" alt="Screenshot 2025-12-25 145029" src="https://github.com/user-attachments/assets/69fc630a-bcfc-4c79-abc5-5b5f3053f6b6" />
 <img width="542" height="750" alt="Screenshot 2025-12-25 145102" src="https://github.com/user-attachments/assets/ccacebdd-f647-4045-8087-0ea7a9a8b243" />
